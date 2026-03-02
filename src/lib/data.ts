@@ -99,7 +99,7 @@ export const chapters: Chapter[] = [
     shortTitle: 'Electrochemistry',
     lecture: { title: 'Lecture Video', videoUrl: 'https://www.youtube.com/embed/AVOPnePHbAA' },
     simulation: { title: 'Cartoon Simulation', videoUrl: 'https://www.youtube.com/embed/m7s_yGjg_98' },
-    presentation: { title: 'Presentation (PDF)', embedUrl: 'https://drive.google.com/file/d/1cH7PJUR0Z72scMXiEJcysfS3jv37vdBx/preview' },
+    presentation: { title: 'Presentation (PDF)', embedUrl: 'https://drive.google.com/file/d/1ysXgf3hgS9KXAJeJtmUKf-IX6ogKEItt/preview' },
     quiz: [
       {
         question: "In an electrochemical cell, where does oxidation occur?",
